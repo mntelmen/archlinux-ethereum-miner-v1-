@@ -1,2 +1,3 @@
-#MyApp
-This is my app.
+#Archlinux based Ethereum Mining Customized OS
+
+Download from torrent
